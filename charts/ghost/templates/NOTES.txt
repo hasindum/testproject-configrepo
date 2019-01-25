@@ -4,7 +4,7 @@
 ###############################################################################
 
 This deployment will be incomplete until you configure Ghost with a resolvable
-host. To configure Ghost with the URL of your service:
+host. To configure Ghost with the URL of your servicew
 
 1. Get the Ghost URL by running:
 
